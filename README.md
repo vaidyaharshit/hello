@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang"en">
+<head>
+<title> SBJIT </title>
+<link href="https://www.w3schools.com">
+</head>
+<body>
+<h> my 1st practical </h>
+<p> Himanshu waghaye </p>
+<p> roll no. </p>
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+</body>
+</html>
