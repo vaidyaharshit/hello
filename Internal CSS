@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MS Dhoni Tribute Page</title>
+<style>
+body{
+    text-align:center;
+    font-family:Arial;
+    background-color:lightgray;
+}
+h1{
+    color:darkblue;
+}
+img{
+    width:200px;
+    border:3px solid black;
+}
+p{
+    font-size:18px;
+}
+</style>
+</head>
+<body>
+<h1>Mahendra Singh Dhoni</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/MS_Dhoni_2.jpg" alt="MS Dhoni">
+<p>
+Mahendra Singh Dhoni is a famous Indian cricketer and former captain of the Indian cricket team.
+He led India to win the 2011 Cricket World Cup and is known for his calm leadership.
+</p>
+</body>
+</html>
